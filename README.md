@@ -1,4 +1,4 @@
-# AWS DevSecOps Project Portfolio 🚀
+# AWS DevSecOps Project Portfolio 
 
 This repository contains **42 AWS projects** across Networking, Three-Tier Architecture, Security, Kubernetes, Docker, DevOps, and Databases.  
 Each project folder contains a markdown file with the project name.
