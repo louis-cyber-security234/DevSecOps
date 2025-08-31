@@ -1,4 +1,4 @@
-# AWS DevSecOps Project Portfolio 🚀
+# AWS DevSecOps Project Portfolio 
 
 Hands-on projects across Networking, Three-Tier Architecture, Security, Kubernetes, Docker, DevOps, and Databases.  
 Click any folder below — GitHub will render the project’s `README.md`.
